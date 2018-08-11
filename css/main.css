@@ -70,12 +70,13 @@ header h2 span {
   padding: 80px 0;
 }
 #buy1 h2 {
-  font-family:'Lora',serif;
-  font-size:42px;
+  color: #400080;
+  font-family:sans-serif;
+  font-size:50px;
   padding-left: 20px;
 }
 #buy1 p {
-  font-size:30px;
+  font-size:35px;
   color:#7F7F7F;
   line-height:40px;
   padding-left:20px;
@@ -84,31 +85,29 @@ header h2 span {
 
 /*****BUY 2 *****/
 
-}
 #buy2 .full-width {
   background: #F9CEB7;
-  text-align:center;
   padding:115px 0;
 }
 #buy2 img {
   padding-bottom: 30px;
 }
 #buy2 h2 {
-  font-size:42px;
+  color: #400080;
+  font-size:50px;
+  font-family: sans-serif;
   line-height:32px;
   width:190px;
   margin: 0 auto;
 }
 #buy2 p {
-  font-family:'Lora',serif;
-  font-size:30px;
+  font-size:35px;
   line-height:30px;
   padding: 0 50px;
 }
 
 /***** BUY 3 *****/
 
-}
 #buy3 .full-width {
   background: #EBEBEB;
   padding: 110px 0;
@@ -118,13 +117,14 @@ header h2 span {
   border: 12px solid white;
 }
 #buy3 h2 {
-  font-family:'Lora', serif;
-  font-size:42px;
+  color:#400080;
+  font-family:sans-serif;
+  font-size:50px;
   line-height:44px;
 }
 #buy3 p {
-  font-family:'Lora',serif;
-  font-size:30px;
+  font-family:sans-serif;
+  font-size:35px;
   line-height:30px;
   padding: 0 50px;
 }
