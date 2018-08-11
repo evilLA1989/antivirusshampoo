@@ -36,7 +36,7 @@ header {
 header h1 {
   padding: 65px 0 65px 25px;
   font-size:30px;
-  color:#BBC085;
+  color:#400080;
 }
 nav {
   float: right;
@@ -48,7 +48,7 @@ nav ul li {
 nav ul li a {
   text-transform:uppercase;
   text-decoration: none;
-  font-size:18px;
+  font-size:24px;
   color:#828282;
   padding-left:15px;
 }
@@ -71,11 +71,11 @@ header h2 span {
 }
 #buy1 h2 {
   font-family:'Lora',serif;
-  font-size:36px;
+  font-size:42px;
   padding-left: 20px;
 }
 #buy1 p {
-  font-size:21px;
+  font-size:30px;
   color:#7F7F7F;
   line-height:40px;
   padding-left:20px;
@@ -84,35 +84,33 @@ header h2 span {
 
 /*****BUY 2 *****/
 
-#buy2 {
-  background: #F9CEB7;
-  text-align:center;
 }
 #buy2 .full-width {
+  background: #F9CEB7;
+  text-align:center;
   padding:115px 0;
 }
 #buy2 img {
   padding-bottom: 30px;
 }
 #buy2 h2 {
-  font-size:24px;
+  font-size:42px;
   line-height:32px;
   width:190px;
   margin: 0 auto;
 }
 #buy2 p {
   font-family:'Lora',serif;
-  font-size:18px;
+  font-size:30px;
   line-height:30px;
   padding: 0 50px;
 }
 
 /***** BUY 3 *****/
 
-#buy3 {
-  background:#EBEBEB;
 }
 #buy3 .full-width {
+  background: #EBEBEB;
   padding: 110px 0;
 }
 #buy3-img {
@@ -121,12 +119,12 @@ header h2 span {
 }
 #buy3 h2 {
   font-family:'Lora', serif;
-  font-size:36px;
+  font-size:42px;
   line-height:44px;
 }
 #buy3 p {
   font-family:'Lora',serif;
-  font-size:18px;
+  font-size:30px;
   line-height:30px;
   padding: 0 50px;
 }
